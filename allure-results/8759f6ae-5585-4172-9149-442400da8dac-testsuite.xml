@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1708163182315' stop='1708163200369'>
+    <name>First Test Suite</name>
+    <title>First Test Suite</title>
+    <test-cases>
+        <test-case start='1708163182315' status='passed' stop='1708163191731'>
+            <name>Populates textbox fields and click submit</name>
+            <title>Populates textbox fields and click submit</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1708163191796' status='passed' stop='1708163200369'>
+            <name>Populates form and clicks submit button using POM</name>
+            <title>Populates form and clicks submit button using POM</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Feb 17 10:46:22 CET 2024","Sat Feb 17 10:46:31 CET 2024","9416","","First Test Suite","","First Test Suite","Populates textbox fields and click submit","Populates textbox fields and click submit",""
+"passed","Sat Feb 17 10:46:31 CET 2024","Sat Feb 17 10:46:40 CET 2024","8573","","First Test Suite","","First Test Suite","Populates form and clicks submit button using POM","Populates form and clicks submit button using POM",""
